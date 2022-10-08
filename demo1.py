@@ -21,3 +21,5 @@ class TestCase:
 if __name__ == '__main__':
     mytest=TestCase()
     mytest.aa()
+
+print("hello")
